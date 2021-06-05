@@ -3,6 +3,7 @@ A showcase of my selected work
 
 * [Python](#python)
 * [Devops](#devops)
+* [Golang](#golang)
 
 ## [Python](#python)
 
@@ -21,3 +22,7 @@ Fully bash based Kubernetes cluster cleanup script
 Loadbalanced droplets spun up with Pulumi. Written in Python
 
 
+## [Golang](#golang)
+
+### [VMWare-Route53 Sync](https://github.com/deepakkt/vmware-route53-sync)
+Syncs VMWare IPs with AWS Route53 subdomain. Operates as a Kubernetes controller with data orchestrated on Configmaps
