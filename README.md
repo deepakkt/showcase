@@ -4,6 +4,7 @@ A showcase of my selected work
 * [Python](#python)
 * [Devops](#devops)
 * [Golang](#golang)
+* [Javascript](#javascript)
 
 ## [Python](#python)
 
@@ -26,3 +27,8 @@ Loadbalanced droplets spun up with Pulumi. Written in Python
 
 ### [VMWare-Route53 Sync](https://github.com/deepakkt/vmware-route53-sync)
 Syncs VMWare IPs with AWS Route53 subdomain. Operates as a Kubernetes controller with data orchestrated on Configmaps
+
+## [Javascript](#javascript)
+
+#### [Creative Cards](https://github.com/deepakkt/creative-cards)
+A Vue JS SPA with a Firebase backend for uploaded images
